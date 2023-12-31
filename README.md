@@ -1,5 +1,5 @@
 # J0123-Build
 
-server >> storing book data
+server >> storing certain book data
        >> user register
        >> suscriber
